@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChessBoard</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_main">Main</string>
+    <string name="about_apps">This application was developed by rakawm.\nFor more information please contact me by sending email to :</string>
+    <string name="email">rakamogandhi@hotmail.com</string>
+</resources>
